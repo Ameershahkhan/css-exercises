@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+
+
+div p{
+    background-color: yellow;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    border: 4px dotted;
+    border-radius: 10px;
+}
+
+
